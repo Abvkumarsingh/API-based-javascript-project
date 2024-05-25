@@ -1,0 +1,42 @@
+
+body{
+    background-color :rgb(50, 50, 246);
+    display: flex;
+    /* position:     ; */
+    text-align:left;
+}
+#contener{
+    background-color: white;
+    text-align: center;
+    border-radius: 25px;
+    width: 500px;
+    height: 300px;
+    /* padding-top:25px; */
+    border: 2px;
+    margin:400px;
+    /* display: flex; */
+    /* margin-top:300px; */
+  
+}
+#joke{
+    /* text-align: center; */
+    width: 500px;
+    height: 100px;
+    padding: 16px;
+    margin: 5px;
+    font-style: italic;
+}
+h3{
+    font-style: italic;
+    text-align: center;
+    /* padding-top:0px ; */
+}
+button{
+    width:100px ;
+    height: 25px;
+    background-color: orange;
+    font-style:oblique;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
